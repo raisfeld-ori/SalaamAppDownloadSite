@@ -1,6 +1,6 @@
 const languages = [
     'Hello', 'Bonjour', 'Hola', 'Ciao', 'Konnichiwa', 'Namaste', 'Salam', 'Merhaba',
-    'Ni hao', 'Annyeong', 'Guten Tag', 'Olá', 'Zdravstvuyte', 'Sawubona', 'Jambo'
+    'Ni hao', 'Annyeong', 'Guten Tag', 'Olá', 'Zdravstvuyte', 'Sawubona', 'Jambo', 'כמו שלי', 'כמו שלי', 'כמו שלי', 'כמו שלי', 'כמו שלי', 'כמו שלי', 'כמו שלי'
   ];
   
   const symbols = ['🌍', '🗣️', '💬', '🔤', '📚', '🖊️', '✍️', '📝', '🔠', '🔡'];
